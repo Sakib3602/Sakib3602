@@ -7,6 +7,9 @@
 <h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Sakib Sarkar Emon</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
+
+
+
 <h3 align="center">I'm CS student and A passionate fullstack developer.</h3>
 
 
@@ -17,7 +20,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
   <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on writting clean code.</li>
+<li>🔭 I’m currently working on reallife peoject.</li>
 <li>🧐 Learning about <strong>Next Js</strong>, <strong>Mongoose</strong>.</li>
 <li>🤝 I'm open to collaborating on crafting MERN projects</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Sakib3602">Github</a>.</li>
