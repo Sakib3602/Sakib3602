@@ -13,7 +13,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h3 align="center">I'm CS student and A passionate fullstack developer.</h3>
 
 
-<p align="center"><a href="https://x.com/SakibSarkar2000"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="linkedin.com/in/sakibsarkar10"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/sakibsarker62/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>  <a href="https://app.daily.dev/sakibsarker62"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
+<p align="center"><a href="https://x.com/SakibSarkar2000"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+  <a href="https://www.linkedin.com/in/sakibsarkar10/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="https://www.instagram.com/sakibsarker62/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>  <a href="https://app.daily.dev/sakibsarker62"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
 
 
 
