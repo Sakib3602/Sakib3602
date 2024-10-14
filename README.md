@@ -22,7 +22,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
   <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently exploring TypeScript.</li>
+<li>🔭 I’m currently exploring C/C++.</li>
 <li>🧐 Learning about <strong>Next Js</strong>, <strong>Mongoose</strong>.</li>
 <li>🤝 I'm open to collaborating on crafting MERN projects</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Sakib3602">Github</a>.</li>
